@@ -1,5 +1,5 @@
 # scalene-triangle-checker
-Absolutely! Here's a README file for your scalene triangle checker code, mentioning it's a testing subject assignment:
+ it's a testing subject assignment:
 
 ## Scalene Triangle Checker
 
