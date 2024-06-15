@@ -1,4 +1,4 @@
-name: CI/CD for Scalene Triangle
+name: CI_CD for Scalene Triangle
 
 on:
   push:
